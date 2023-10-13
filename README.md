@@ -1,2 +1,2 @@
 # Expected Batting Average Predictor
-This project currently has two parts. The first part will allow the user to input an MLB player's MLBID and will return that player's batting average on balls in play. The second part is a machine learning model that will predict a player's batting average on balls in play based on how the ball was hit.
+This project has two programs. The first program, DataCleaningAndTesting, contains the Jupyter Notebook file that I used to clean my data and test which machine-learning model was the most efficient for this project. The second program is a Shiny Application written in Python that allows the user to input a batter's MLBID number and receive what my program expects that player's batting average to be.
